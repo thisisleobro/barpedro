@@ -1,0 +1,41 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.title {
+	font-family: 'Permanent Marker', cursive;
+}
+
+.navbar-item {
+	font-family: 'Roboto', cursive;
+}
+
+.navbar-menu {
+	padding:0;
+}
+
+.nav-name {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 200%;
+	border:0px;
+	font-family: 'Notable', sans-serif;
+}
+
+.content p {
+	font-family: 'Roboto', cursive;
+}
+
+.box {
+	padding:3px;
+}
+
+.footer {
+	padding-bottom: 0px;
+	bottom:0px;
+	background-color:black;
+}
+
+iframe {
+	width: 100%;
+}
